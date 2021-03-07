@@ -10,6 +10,7 @@
         <module name="cookie" />
         <module name="response" />
         <module name="servlet" />
+        <module name="session" />
       </profile>
     </annotationProcessing>
   </component>
