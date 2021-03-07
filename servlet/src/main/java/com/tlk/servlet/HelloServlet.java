@@ -14,7 +14,7 @@ public class HelloServlet extends HttpServlet {
     protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         ServletContext context = this.getServletContext();
 
-        String username = "陶联宽";
+        String username = "tlk";
         context.setAttribute("username" , username);
         System.out.println("已经输入参数");
 
