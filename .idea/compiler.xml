@@ -11,6 +11,7 @@
         <module name="response" />
         <module name="servlet" />
         <module name="session" />
+        <module name="jsp" />
       </profile>
     </annotationProcessing>
   </component>
