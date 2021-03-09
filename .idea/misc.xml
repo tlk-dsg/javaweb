@@ -3,6 +3,7 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/cookie" />
+    <file type="web" url="file://$PROJECT_DIR$/filter" />
     <file type="web" url="file://$PROJECT_DIR$/jsp" />
     <file type="web" url="file://$PROJECT_DIR$/request" />
     <file type="web" url="file://$PROJECT_DIR$/response" />
